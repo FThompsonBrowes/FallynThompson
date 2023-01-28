@@ -33,25 +33,25 @@ work:
     position: "Promotion: Educator, Data Scientist"
     website: "https://brainstation.io/course/online/remote-data-science-bootcamp"
     startDate: "2022-07-01"
-    endDate: "Present"
+    endDate: ""
     highlights:
       - "Deliver the 12-week Data Science Diploma program, specializing in querying and programming languages (SQL, Python, R) and visualization tools (Tableau, Python packages)"
       - "Produce and update new lesson and solution files for the Data Science Program curriculum; lessons contributed to date include working with Big Data (Hadoop, Spark, Hive, AWS EMR), time series, CNNs, Scripting etc."
       - "Engage Scrum Agile Methodology using Jira to manage complex projects and facilitate cross-team collaboration"
       - "Troubleshoot and set-up machine learning environments on Microsoft Windows, Mac OS X, and Linux"
-  - company: "Pied Piper"
-    position: "CEO/President"
-    website: "https://piedpiper.com"
-    startDate: "2013-12-01"
-    endDate: ""
-    summary: >
-      Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has
-      consistently fielded high Weisman Scores™ that are not merely competitive,
-      but approach the theoretical limit of lossless compression.
+  - company: "CanWaCH - The Canadian Partnership for Women and Children's Health"
+    position: "Global Health Metrics Officer"
+    website: "https://canwach.ca"
+    startDate: "2018-10-01"
+    endDate: "2021-04-01"
     highlights:
-      - "Built an algorithm for artist to detect if their music was violating copy right infringement laws"
-      - "Successfully won Techcrunch Disrupt"
-      - "Optimized an algorithm that holds the current world record for Weisman Scores"
+      - "Lead data scientist of the CanWaCH PostgreSQL database(s), hosting and information architecture remediation project; managing contract developers working in JavaScript, HTML, Python, Go, CSS, PLpgSQL, Shell, PHP, Groovy, Java, YAML and other"
+      - "Junior database administrator responsible for the set-up of the CanWaCH remote PostgreSQL server (using PuTTY and DBeaver), GitHub, Tableau Online, Tableau Public and Google Cloud (GCP)"
+      - "Software developer of the CanWaCH bilingual Analytics Portal powered by Tableau (Hosted:10.2018-01.2023)"
+        - "[Tableau Public for CanWach (EN)](https://public.tableau.com/app/profile/canwach)"
+        - "[Tableau Public for CanSFE (FR)](https://public.tableau.com/app/profile/cansfe)"
+      - "Incorporated data dissemination principles and user-centric design into the CanWaCH Data Strategy 2020-2025; connecting the sector with low-barrier to entry data tools to facilitate data sharing and ensure technology optimization across platforms"
+      - "Published bilingual MEL documentation and research reports ranging from the Analytics Portal Methodology and SOP to customized quantitative and qualitative disaggregated evaluations; for audiences such as Global Affairs Canada, Global Canada, Guttmacher Institute, International Aid Transparency Initiative (IATI) and the CanWaCH Metrics Working Group"  
   - company: "Pied Piper"
     position: "CEO/President"
     website: "https://piedpiper.com"
