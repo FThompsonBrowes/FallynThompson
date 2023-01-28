@@ -27,13 +27,13 @@ basics:
   profiles:
     - network: "LinkedIn"
       username: "Fallyn Thompson Browes"
-      url: "linkedin.com/in/fallyn-thompson-browes-394529a5"
+      url: "https://linkedin.com/in/fallyn-thompson-browes-394529a5"
 work:
-  - company: "BrainStation, Vancouver, British Columbia"
+  - company: "BrainStation"
     position: "Promotion: Educator, Data Scientist"
-    date: "July 2022 - Present"
-    position: "Associate Educator, Data Scientist"
-    date: "July 2021 - June 2022"
+    website: "https://brainstation.io/course/online/remote-data-science-bootcamp"
+    startDate: "2022-07-01"
+    endDate: "Present"
     highlights:
       - "Deliver the 12-week Data Science Diploma program, specializing in querying and programming languages (SQL, Python, R) and visualization tools (Tableau, Python packages)"
       - "Produce and update new lesson and solution files for the Data Science Program curriculum; lessons contributed to date include working with Big Data (Hadoop, Spark, Hive, AWS EMR), time series, CNNs, Scripting etc."
