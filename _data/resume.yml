@@ -48,9 +48,7 @@ work:
       - "Lead data scientist of the CanWaCH PostgreSQL database(s), hosting and information architecture remediation project; managing contract developers working in JavaScript, HTML, Python, Go, CSS, PLpgSQL, Shell, PHP, Groovy, Java, YAML and other"
       - "Junior database administrator responsible for the set-up of the CanWaCH remote PostgreSQL server (using PuTTY and DBeaver), GitHub, Tableau Online, Tableau Public and Google Cloud (GCP)"
       - "Software developer of the CanWaCH bilingual Analytics Portal powered by Tableau (Hosted:10.2018-01.2023)"
-      subfolderitems:
-        - "[Tableau Public for CanWach (EN)](https://public.tableau.com/app/profile/canwach)"
-        - "[Tableau Public for CanSFE (FR)](https://public.tableau.com/app/profile/cansfe)"
+      - "Tableau Public: [CanWach(EN)](https://public.tableau.com/app/profile/canwach) | [CanSFE (FR)](https://public.tableau.com/app/profile/cansfe)"
       - "Incorporated data dissemination principles and user-centric design into the CanWaCH Data Strategy 2020-2025; connecting the sector with low-barrier to entry data tools to facilitate data sharing and ensure technology optimization across platforms"
       - "Published bilingual MEL documentation and research reports ranging from the Analytics Portal Methodology and SOP to customized quantitative and qualitative disaggregated evaluations; for audiences such as Global Affairs Canada, Global Canada, Guttmacher Institute, International Aid Transparency Initiative (IATI) and the CanWaCH Metrics Working Group"  
   - company: "iData Research"
