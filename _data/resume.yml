@@ -131,7 +131,18 @@ skills:
       - "HTML"
       - "CSS"
       - "Javascript"
-  - name: ""
+  - name:
+    level: "Master"
+    keywords:
+      - "Mpeg"
+      - "MP4"
+      - "GIF"
+  - name: "Web Development"
+    level: "Master"
+    keywords:
+      - "HTML"
+      - "CSS"
+      - "Javascript"
     level: "Master"
     keywords:
       - "Mpeg"
