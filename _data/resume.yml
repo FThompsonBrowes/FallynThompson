@@ -127,9 +127,9 @@ skills:
     keywords:
       - "SQL"
       - "Python"
-      - "Apache: Hadoop, Hive, Spark"
-      - "VBA"
       - "JavaScript"
+      - "VBA"
+      - "Apache: Hadoop, Hive, Spark"
   - name: "Data Visualization"
     level: "Master"
     keywords:
