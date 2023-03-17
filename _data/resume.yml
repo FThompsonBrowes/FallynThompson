@@ -7,6 +7,10 @@ basics:
   picture: "https://via.placeholder.com/240x240"
   email: "fallyn.n.thompson@gmail.com"
   phone: "+1 (778) 873-9528"
+  profiles:
+    - network: "LinkedIn"
+      username: "Fallyn Thompson Browes"
+      url: "https://linkedin.com/in/fallyn-thompson-browes-394529a5"
   summary: >
     As a global project manager, I have 9+ years experience distilling complex data into clear, 
     accessible findings successfully implemented across multi-disciplinary teams. I enjoy tackling 
@@ -26,14 +30,10 @@ basics:
     city: "Vancouver"
     countryCode: "Canada"
     region: "British Columbia"
-  profiles:
-    - network: "LinkedIn"
-      username: "Fallyn Thompson Browes"
-      url: "https://linkedin.com/in/fallyn-thompson-browes-394529a5"
 work:
-  - company: "<a href='https://brainstation.io/course/online/remote-data-science-bootcamp' target='_blank'>BrainStation</a>"
+  - company: "BrainStation"
     position: "Promotion: Educator, Data Scientist"
-    position: "Associate Educator, Data Scientist"
+    website: "https://brainstation.io/course/online/remote-data-science-bootcamp"
     startDate: "2022-07-01"
     endDate: "2023-03-01"
     highlights:
