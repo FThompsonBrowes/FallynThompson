@@ -154,4 +154,5 @@ languages:
   - language: "French"
     fluency: "Native speaker"
 references:
-  - Available Upon Request
+  - name: "Available Upon Request"
+    reference:
