@@ -150,3 +150,6 @@ languages:
   - language: "French"
     fluency: "Native speaker"
 references:
+  <ul style="list-style: none;">
+  <li>List item with no bullet</li>
+  </ul>
