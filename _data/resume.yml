@@ -122,7 +122,6 @@ skills:
     keywords:
       - "SQL"
       - "Python"
-      - "JavaScript"
       - "VBA"
       - "Apache: Hadoop, Hive, Spark"
   - name: "Data Visualization"
