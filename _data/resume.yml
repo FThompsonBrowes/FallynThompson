@@ -150,6 +150,6 @@ languages:
   - language: "French"
     fluency: "Native speaker"
 references:
-  - name: "Erlich Bachman"
+  - title: ""
     reference: >
       Available Upon Request
