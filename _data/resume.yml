@@ -7,7 +7,6 @@ basics:
   picture: "https://via.placeholder.com/240x240"
   email: "fallyn.n.thompson@gmail.com"
   phone: "+1 (778) 873-9528"
-  website: "https://fallynthompson.ca"
   summary: >
     As a global project manager, I have 9+ years experience distilling complex data into clear, 
     accessible findings successfully implemented across multi-disciplinary teams. I enjoy tackling 
@@ -33,7 +32,7 @@ basics:
       url: "https://linkedin.com/in/fallyn-thompson-browes-394529a5"
 work:
   - company: "BrainStation"
-    position: "Promotion: Educator, Data Scientist"
+    position: "Promotion: Educator, Data Scientist<ul><li>Associate Educator, Data Scientist</li></ul>"
     website: "https://brainstation.io/course/online/remote-data-science-bootcamp"
     startDate: "2022-07-01"
     endDate: "2023-03-01"
@@ -54,7 +53,7 @@ work:
       - "Incorporated data dissemination principles and user-centric design into the CanWaCH Data Strategy 2020-2025; connecting the sector with low-barrier to entry data tools to facilitate data sharing and ensure technology optimization across platforms"
       - "Published bilingual MEL documentation and research reports ranging from the Analytics Portal Methodology and SOP to customized quantitative and qualitative disaggregated evaluations; for audiences such as Global Affairs Canada, Global Canada, Guttmacher Institute, International Aid Transparency Initiative (IATI) and the CanWaCH Metrics Working Group"  
   - company: "iData Research"
-    position: "Business Unit Leader"
+    position: "Promotion: Business Unit Leader"
     website: "https://idataresearch.com"
     startDate: "2016-04-01"
     endDate: "2018-05-01"
@@ -155,4 +154,4 @@ languages:
   - language: "French"
     fluency: "Native speaker"
 references:
-  - Available Upon Request
+  - "Available Upon Request"
