@@ -31,8 +31,9 @@ basics:
       username: "Fallyn Thompson Browes"
       url: "https://linkedin.com/in/fallyn-thompson-browes-394529a5"
 work:
-  - company: "<a href='https://brainstation.io/course/online/remote-data-science-bootcamp' target='_blank'>BrainStation</a><ul><li>Associate Educator, Data Scientist</li></ul>"
+  - company: "<a href='https://brainstation.io/course/online/remote-data-science-bootcamp' target='_blank'>BrainStation</a>"
     position: "Promotion: Educator, Data Scientist"
+    position: "Associate Educator, Data Scientist"
     startDate: "2022-07-01"
     endDate: "2023-03-01"
     highlights:
