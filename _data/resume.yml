@@ -116,7 +116,7 @@ education:
     courses:
       - "DB1101 - Basic SQL"
       - "CS2011 - Java Introduction"
-Fieldwork Experience:
+awards:
   - title: "Digital Compression Pioneer Award"
     date: "2014-11-01"
     awarder: "Techcrunch"
@@ -144,7 +144,7 @@ languages:
   - language: "English"
     fluency: "Native speaker"
   - language: "French"
-    fluency: "Advanced"
+    fluency: "Full professional proficiency"
 interests:
   - name: "Wildlife"
     keywords:
