@@ -116,7 +116,7 @@ education:
     courses:
       - "DB1101 - Basic SQL"
       - "CS2011 - Java Introduction"
-awards:
+Fieldwork Experience:
   - title: "Digital Compression Pioneer Award"
     date: "2014-11-01"
     awarder: "Techcrunch"
@@ -134,18 +134,7 @@ skills:
       - "HTML"
       - "CSS"
       - "Javascript"
-  - name:
-    level: "Master"
-    keywords:
-      - "Mpeg"
-      - "MP4"
-      - "GIF"
-  - name: "Web Development"
-    level: "Master"
-    keywords:
-      - "HTML"
-      - "CSS"
-      - "Javascript"
+  - name: "Compression"
     level: "Master"
     keywords:
       - "Mpeg"
@@ -154,6 +143,8 @@ skills:
 languages:
   - language: "English"
     fluency: "Native speaker"
+  - language: "French"
+    fluency: "Advanced"
 interests:
   - name: "Wildlife"
     keywords:
