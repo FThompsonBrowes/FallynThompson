@@ -7,10 +7,6 @@ basics:
   picture: "https://via.placeholder.com/240x240"
   email: "fallyn.n.thompson@gmail.com"
   phone: "+1 (778) 873-9528"
-  profiles:
-    - network: "LinkedIn"
-      username: "Fallyn Thompson Browes"
-      url: "https://linkedin.com/in/fallyn-thompson-browes-394529a5"
   summary: >
     As a global project manager, I have 9+ years experience distilling complex data into clear, 
     accessible findings successfully implemented across multi-disciplinary teams. I enjoy tackling 
@@ -30,6 +26,10 @@ basics:
     city: "Vancouver"
     countryCode: "Canada"
     region: "British Columbia"
+  profiles:
+    - network: "LinkedIn"
+      username: "Fallyn Thompson Browes"
+      url: "https://linkedin.com/in/fallyn-thompson-browes-394529a5"
 work:
   - company: "BrainStation"
     position: "Promotion: Educator, Data Scientist"
@@ -103,15 +103,15 @@ work:
       - "Customized an interactive price quality matrix, providing a clear price vs. quality comparison of fertilizer options for consumers"
       - "Authored two cross-cultural research reports, outlining methods for maximizing return on investment"
 education:
+  - institution: "Simon Fraser University, Vancouver, Canada"
+    area: "Canadian Risk Management Program, Honours"
+    startDate: "2014-09-01"
+    endDate: "2015-07-01"
   - institution: "McGill University, Montreal, Canada"
     area: "International Development Studies, Double Minor: Economics and International Relations"
     studyType: "Bachelor"
     startDate: "2007-09-01"
     endDate: "2012-04-01"
-  - institution: "Simon Fraser University, Vancouver, Canada"
-    area: "Canadian Risk Management Program, Honours"
-    startDate: "2014-09-01"
-    endDate: "2015-07-01"
 awards:
   - title: "Top 100 Recovery Project Award 2020; CanWaCH Project Explorer tool"
     date: "2020-09-01"
@@ -154,4 +154,4 @@ languages:
   - language: "French"
     fluency: "Native speaker"
 references:
-  - "Available Upon Request"
+  - Available Upon Request
