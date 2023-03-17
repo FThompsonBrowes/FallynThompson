@@ -97,15 +97,6 @@ work:
     highlights:
       - ""
       - ""
-volunteer:
-  - organization: "CoderDojo"
-    position: "Teacher"
-    website: "https://coderdojo.com/"
-    startDate: "2012-01-01"
-    endDate: "2013-01-01"
-    summary: "Global movement of free coding clubs for young people."
-    highlights:
-      - "Awarded 'Teacher of the Month'"
 education:
   - institution: "University of Oklahoma"
     area: "Information Technology"
@@ -158,3 +149,5 @@ languages:
     fluency: "Native speaker"
   - language: "French"
     fluency: "Native speaker"
+references:
+  - name: "Available Upon Request"
