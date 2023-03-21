@@ -1,6 +1,6 @@
 ---
 layout: resume
-title: Resumé
+title: Resume
 description: >
   Fallyn Thompson, Data Scientist and Data Visualization Specialist. Specialties: SQL, Python (timeseries, market basket measures analysis, Plotly), Tableau, Infographics and Dashboards. Areas of Interest: anomaly detection, behavioural economics, cross-cultural studies, women and children’s healthcare, global healthcare.
 hide_description: true
