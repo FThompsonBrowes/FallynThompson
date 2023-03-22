@@ -250,6 +250,10 @@ linkedin-circle4:
   name: linkedin-circle4
   icon: icon-linkedin-circle4
   prepend: "https://www.linkedin.com/in/"
+linkedin-circle4-center:
+  name: linkedin-circle4-center
+  icon: icon-linkedin-circle4-center
+  prepend: "https://www.linkedin.com/in/"
 tableau:
   name: tableau
   icon: icon-tableau
