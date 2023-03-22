@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?sycxkx');
-  src:  url('fonts/icomoon.eot?sycxkx#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?sycxkx') format('truetype'),
-    url('fonts/icomoon.woff?sycxkx') format('woff'),
-    url('fonts/icomoon.svg?sycxkx#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?nqmrcs');
+  src:  url('fonts/icomoon.eot?nqmrcs#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?nqmrcs') format('truetype'),
+    url('fonts/icomoon.woff?nqmrcs') format('woff'),
+    url('fonts/icomoon.svg?nqmrcs#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -316,6 +316,9 @@
 .icon-linkedin-circle:before {
   content: "\e901";
 }
+.icon-linkedin-circle2:before {
+  content: "\e90d";
+}
 .icon-social-linkedin-circular:before {
   content: "\e903";
 }
@@ -333,6 +336,20 @@
 }
 .icon-linkedin4:before {
   content: "\e908";
+}
+.icon-linkedin-circle3 .path1:before {
+  content: "\e90e";
+  color: rgb(0, 0, 0);
+}
+.icon-linkedin-circle3 .path2:before {
+  content: "\e90f";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-linkedin-circle3 .path3:before {
+  content: "\e910";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
 }
 .icon-tableau-public:before {
   content: "\e90b";
