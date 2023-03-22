@@ -246,13 +246,13 @@ linkedin-circle2:
   name: linkedin-circle2
   icon: icon-linkedin-circle2
   prepend: "https://www.linkedin.com/in/"
-linkedin-circle3:
-  name: linkedin-circle3
-  icon: icon-linkedin-circle3
+linkedin-circle4:
+  name: linkedin-circle4
+  icon: icon-linkedin-circle4
   prepend: "https://www.linkedin.com/in/"
-tableau-colour:
-  name: tableau-colour
-  icon: icon-tableau-colour
+tableau:
+  name: tableau
+  icon: icon-tableau
   prepend: "https://public.tableau.com/app/profile/"
 tableau-public:
   name: tableau-public
