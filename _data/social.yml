@@ -259,7 +259,7 @@ linkedin-circle4-center--no-right-skew:
   icon: icon-linkedin-circle4-center--no-right-skew
   prepend: "https://www.linkedin.com/in/"
 linkedin:
-  name: linkedin
+  name: LinkedIn
   icon: icon-linkedin
   prepend: "https://www.linkedin.com/in/"
 tableau:
@@ -267,6 +267,6 @@ tableau:
   icon: icon-tableau
   prepend: "https://public.tableau.com/app/profile/"
 tableau-public:
-  name: tableau-public
+  name: Tableau-public
   icon: icon-tableau-public
   prepend: "https://public.tableau.com/app/profile/"
