@@ -240,7 +240,7 @@ linkedin5:
   prepend: "https://www.linkedin.com/in/"
 linkedin-circle:
   name: linkedin-circle
-  icon: icon-circle
+  icon: icon-linkedin-circle
   prepend: "https://www.linkedin.com/in/"
 tableau-colour:
   name: tableau-colour
