@@ -242,6 +242,14 @@ linkedin-circle:
   name: linkedin-circle
   icon: icon-linkedin-circle
   prepend: "https://www.linkedin.com/in/"
+linkedin-circle2:
+  name: linkedin-circle2
+  icon: icon-linkedin-circle2
+  prepend: "https://www.linkedin.com/in/"
+linkedin-circle3:
+  name: linkedin-circle3
+  icon: icon-linkedin-circle3
+  prepend: "https://www.linkedin.com/in/"
 tableau-colour:
   name: tableau-colour
   icon: icon-tableau-colour
