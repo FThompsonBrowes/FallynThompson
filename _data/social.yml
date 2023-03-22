@@ -242,3 +242,7 @@ tableau:
   name: tableau
   icon: icon-tableau
   prepend: "https://public.tableau.com/app/profile/"
+tableau_black_white:
+  name: tableau_black_white
+  icon: icon-tableau_black_white
+  prepend: "https://public.tableau.com/app/profile/"
