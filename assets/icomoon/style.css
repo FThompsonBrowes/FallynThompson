@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?sdbq8p');
-  src:  url('fonts/icomoon.eot?sdbq8p#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?sdbq8p') format('truetype'),
-    url('fonts/icomoon.woff?sdbq8p') format('woff'),
-    url('fonts/icomoon.svg?sdbq8p#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?c1bh6q');
+  src:  url('fonts/icomoon.eot?c1bh6q#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?c1bh6q') format('truetype'),
+    url('fonts/icomoon.woff?c1bh6q') format('woff'),
+    url('fonts/icomoon.svg?c1bh6q#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -337,11 +337,17 @@
 .icon-linkedin4:before {
   content: "\e908";
 }
-.icon-linkedin-circle4:before {
-  content: "\e90e";
+.icon-linkedin-circle4-center--no-right-skew:before {
+  content: "\e910";
 }
 .icon-linkedin-circle4-center:before {
   content: "\e90f";
+}
+.icon-linkedin-circle4:before {
+  content: "\e90e";
+}
+.icon-linkedin-circle5:before {
+  content: "\e911";
 }
 .icon-tableau-public:before {
   content: "\e90b";

@@ -254,6 +254,14 @@ linkedin-circle4-center:
   name: linkedin-circle4-center
   icon: icon-linkedin-circle4-center
   prepend: "https://www.linkedin.com/in/"
+linkedin-circle4-center--no-right-skew:
+  name: linkedin-circle4-center--no-right-skew
+  icon: icon-linkedin-circle4-center--no-right-skew
+  prepend: "https://www.linkedin.com/in/"
+linkedin-circle5:
+  name: linkedin-circle5
+  icon: icon-linkedin-circle5
+  prepend: "https://www.linkedin.com/in/"
 tableau:
   name: tableau
   icon: icon-tableau
