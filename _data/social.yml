@@ -238,11 +238,15 @@ linkedin5:
   name: linkedin5
   icon: icon-linkedin5
   prepend: "https://www.linkedin.com/in/"
+linkedin-circle:
+  name: linkedin-circle
+  icon: icon-circle
+  prepend: "https://www.linkedin.com/in/"
 tableau-colour:
   name: tableau-colour
   icon: icon-tableau-colour
   prepend: "https://public.tableau.com/app/profile/"
-tableau_black_white:
-  name: tableau_black_white
-  icon: icon-tableau_black_white
+tableau-public:
+  name: tableau-public
+  icon: icon-tableau-public
   prepend: "https://public.tableau.com/app/profile/"

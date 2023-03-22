@@ -26,9 +26,9 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    social-linkedin-circular: https://www.linkedin.com/in/fallyn-thompson-browes-394529a5/
+    linkedin-circle: https://www.linkedin.com/in/fallyn-thompson-browes-394529a5/
     github: FThompsonBrowes
-    tableau_black_white: https://public.tableau.com/app/profile/canwach
+    tableau-public: https://public.tableau.com/app/profile/canwach
 
     # email:           <mail@domain.tld>
     # rss:             https://<url>/feed.xml

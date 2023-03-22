@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?4coxje');
-  src:  url('fonts/icomoon.eot?4coxje#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?4coxje') format('truetype'),
-    url('fonts/icomoon.woff?4coxje') format('woff'),
-    url('fonts/icomoon.svg?4coxje#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?sycxkx');
+  src:  url('fonts/icomoon.eot?sycxkx#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?sycxkx') format('truetype'),
+    url('fonts/icomoon.woff?sycxkx') format('woff'),
+    url('fonts/icomoon.svg?sycxkx#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,17 +25,6 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-tableau_black_white:before {
-  content: "\e90b";
-}
-.icon-linkedin5:before {
-  content: "\e909";
-  color: #0077b5;
-}
-.icon-tableau:before {
-  content: "\e90a";
-  color: #e97627;
-}
 .icon-book:before {
   content: "\e91f";
 }
@@ -324,11 +313,14 @@
 .icon-linkedin1:before {
   content: "\e900";
 }
-.icon-social-linkedin-circular:before {
+.icon-linkedin-circle:before {
   content: "\e901";
 }
-.icon-social-linkedin:before {
+.icon-social-linkedin-circular:before {
   content: "\e903";
+}
+.icon-social-linkedin:before {
+  content: "\e90c";
 }
 .icon-linkedin-square:before {
   content: "\e904";
@@ -341,4 +333,15 @@
 }
 .icon-linkedin4:before {
   content: "\e908";
+}
+.icon-tableau-public:before {
+  content: "\e90b";
+}
+.icon-linkedin5:before {
+  content: "\e909";
+  color: #0077b5;
+}
+.icon-tableau:before {
+  content: "\e90a";
+  color: #e97627;
 }
