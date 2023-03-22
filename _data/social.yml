@@ -242,7 +242,7 @@ tableau-colour:
   name: tableau-colour
   icon: icon-tableau-colour
   prepend: "https://public.tableau.com/app/profile/"
-tableau-public:
-  name: tableau-public
-  icon: icon-tableau-public
+tableau_black_white:
+  name: tableau_black_white
+  icon: icon-tableau_black_white
   prepend: "https://public.tableau.com/app/profile/"
