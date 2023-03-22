@@ -156,8 +156,8 @@ hackernews:
 wikipedia:
   name: Wikipedia
   icon: icon-wikipedia
-linkedin:
-  name: LinkedIn
+linkedin2:
+  name: LinkedIn2
   icon: icon-linkedin2
   prepend: "https://www.linkedin.com/in/"
 lastfm:
@@ -258,9 +258,9 @@ linkedin-circle4-center--no-right-skew:
   name: linkedin-circle4-center--no-right-skew
   icon: icon-linkedin-circle4-center--no-right-skew
   prepend: "https://www.linkedin.com/in/"
-linkedin-circle5:
-  name: linkedin-circle5
-  icon: icon-linkedin-circle5
+linkedin:
+  name: linkedin
+  icon: icon-linkedin
   prepend: "https://www.linkedin.com/in/"
 tableau:
   name: tableau
