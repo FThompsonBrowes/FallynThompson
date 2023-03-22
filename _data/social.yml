@@ -206,3 +206,39 @@ keybase:
 download:
   name: Download
   icon: icon-box-add
+linkedin1:
+  name: linkedin1
+  icon: icon-linkedin1
+  prepend: "https://www.linkedin.com/in/"
+social-linkedin-circular:
+  name: social-linkedin-circular
+  icon: icon-social-linkedin-circular
+  prepend: "https://www.linkedin.com/in/"
+social-linkedin:
+  name: social-linkedin
+  icon: icon-social-linkedin
+  prepend: "https://www.linkedin.com/in/"
+linkedin-square:
+  name: linkedin-square
+  icon: icon-linkedin-square
+  prepend: "https://www.linkedin.com/in/"
+linkedin3:
+  name: linkedin3
+  icon: icon-linkedin3
+  prepend: "https://www.linkedin.com/in/"
+linkedin-with-circle:
+  name: linkedin-with-circle
+  icon: icon-linkedin-with-circle
+  prepend: "https://www.linkedin.com/in/"
+linkedin4:
+  name: linkedin4
+  icon: icon-linkedin4
+  prepend: "https://www.linkedin.com/in/"
+linkedin5:
+  name: linkedin5
+  icon: icon-linkedin5
+  prepend: "https://www.linkedin.com/in/"
+tableau:
+  name: tableau
+  icon: icon-tableau
+  prepend: "https://public.tableau.com/app/profile/"
