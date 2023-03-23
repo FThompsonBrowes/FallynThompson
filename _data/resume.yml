@@ -109,7 +109,7 @@ education:
     endDate: "2015-07-01"
   - institution: "McGill University, Montreal, Canada"
     area: "International Development Studies, Double Minor: Economics and International Relations"
-    studyType: "Bachelor"
+    studyType: "BA:"
     startDate: "2007-09-01"
     endDate: "2012-04-01"
 awards:
@@ -151,4 +151,4 @@ languages:
   - language: "English"
     fluency: "Native speaker"
   - language: "French"
-    fluency: "Native speaker"
+    fluency: "Professional working proficiency"
