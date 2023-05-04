@@ -53,6 +53,8 @@ menu:
     url:               /resume/
   - title:             Publications
     url:               /documents/
+  - title:             News Articles
+    url:               /news_articles/
   - title:             Projects
     url:               /projects/
 
@@ -301,6 +303,11 @@ collections:
     permalink:         /projects/:path/
     output:            true
 
+# Our new projects collection
+  news_articles:
+# Make sure the permalink path is different!
+    permalink:        /news-articles/:path/
+    output:           true
 
 # File inclusion/exclusion
 # ----------------------------------------------------------------------------------------
