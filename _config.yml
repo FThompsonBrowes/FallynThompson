@@ -53,6 +53,8 @@ menu:
     url:               /resume/
   - title:             Publications
     url:               /documents/
+  - title:             News Articles
+    url:               /news_articles/
   - title:             Projects
     url:               /projects/
 
