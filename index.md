@@ -1,6 +1,6 @@
 ---
 layout: resume
-title:  Fallyn Thompson Browes
+title:  Resume
 sitemap: false
 ---
 
